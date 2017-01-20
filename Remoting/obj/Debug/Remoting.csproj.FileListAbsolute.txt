@@ -1,0 +1,18 @@
+C:\Users\MuzDima\Dropbox\NEW KNU MAG\COM Laba\Remoting\bin\Debug\Remoting.exe.config
+C:\Users\MuzDima\Dropbox\NEW KNU MAG\COM Laba\Remoting\bin\Debug\Remoting.exe
+C:\Users\MuzDima\Dropbox\NEW KNU MAG\COM Laba\Remoting\bin\Debug\Remoting.pdb
+C:\Users\MuzDima\Dropbox\NEW KNU MAG\COM Laba\Remoting\bin\Debug\COM Laba.dll
+C:\Users\MuzDima\Dropbox\NEW KNU MAG\COM Laba\Remoting\bin\Debug\ExtendedXmlSerializer.dll
+C:\Users\MuzDima\Dropbox\NEW KNU MAG\COM Laba\Remoting\bin\Debug\COM Laba.pdb
+C:\Users\MuzDima\Dropbox\NEW KNU MAG\COM Laba\Remoting\obj\Debug\Remoting.csprojResolveAssemblyReference.cache
+C:\Users\MuzDima\Dropbox\NEW KNU MAG\COM Laba\Remoting\obj\Debug\Remoting.exe
+C:\Users\MuzDima\Dropbox\NEW KNU MAG\COM Laba\Remoting\obj\Debug\Remoting.pdb
+C:\Users\SRigh\Documents\COM Laba\Remoting\bin\Debug\Remoting.exe.config
+C:\Users\SRigh\Documents\COM Laba\Remoting\bin\Debug\Remoting.exe
+C:\Users\SRigh\Documents\COM Laba\Remoting\bin\Debug\Remoting.pdb
+C:\Users\SRigh\Documents\COM Laba\Remoting\bin\Debug\COM Laba.dll
+C:\Users\SRigh\Documents\COM Laba\Remoting\bin\Debug\ExtendedXmlSerializer.dll
+C:\Users\SRigh\Documents\COM Laba\Remoting\bin\Debug\COM Laba.pdb
+C:\Users\SRigh\Documents\COM Laba\Remoting\obj\Debug\Remoting.csprojResolveAssemblyReference.cache
+C:\Users\SRigh\Documents\COM Laba\Remoting\obj\Debug\Remoting.exe
+C:\Users\SRigh\Documents\COM Laba\Remoting\obj\Debug\Remoting.pdb

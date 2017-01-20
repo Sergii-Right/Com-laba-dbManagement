@@ -1,0 +1,58 @@
+c:\users\muzdima\documents\visual studio 2015\Projects\Laba Interface\Laba Interface\bin\Debug\Laba Interface.exe.config
+c:\users\muzdima\documents\visual studio 2015\Projects\Laba Interface\Laba Interface\bin\Debug\Laba Interface.exe
+c:\users\muzdima\documents\visual studio 2015\Projects\Laba Interface\Laba Interface\bin\Debug\Laba Interface.pdb
+c:\users\muzdima\documents\visual studio 2015\Projects\Laba Interface\Laba Interface\obj\Debug\Laba_Interface.FormMain.resources
+c:\users\muzdima\documents\visual studio 2015\Projects\Laba Interface\Laba Interface\obj\Debug\Laba_Interface.Properties.Resources.resources
+c:\users\muzdima\documents\visual studio 2015\Projects\Laba Interface\Laba Interface\obj\Debug\Laba Interface.csproj.GenerateResource.Cache
+c:\users\muzdima\documents\visual studio 2015\Projects\Laba Interface\Laba Interface\obj\Debug\Laba Interface.exe
+c:\users\muzdima\documents\visual studio 2015\Projects\Laba Interface\Laba Interface\obj\Debug\Laba Interface.pdb
+c:\users\muzdima\documents\visual studio 2015\Projects\Laba Interface\Laba Interface\obj\Debug\Laba_Interface.FormDatabase.resources
+c:\users\muzdima\documents\visual studio 2015\Projects\Laba Interface\Laba Interface\obj\Debug\Laba_Interface.FormTable.resources
+c:\users\muzdima\documents\visual studio 2015\Projects\Laba Interface\Laba Interface\obj\Debug\Laba_Interface.FormInput1.resources
+c:\users\muzdima\documents\visual studio 2015\Projects\Laba Interface\Laba Interface\obj\Debug\Laba_Interface.FormInput2.resources
+c:\users\muzdima\documents\visual studio 2015\Projects\Laba Interface\Laba Interface\obj\Debug\Laba_Interface.FormInit.resources
+C:\Users\MuzDima\Dropbox\NEW KNU MAG\Laba Interface\Laba Interface\bin\Debug\Laba Interface.exe.config
+C:\Users\MuzDima\Dropbox\NEW KNU MAG\Laba Interface\Laba Interface\obj\Debug\Laba Interface.exe
+C:\Users\MuzDima\Dropbox\NEW KNU MAG\Laba Interface\Laba Interface\obj\Debug\Laba Interface.pdb
+C:\Users\MuzDima\Dropbox\NEW KNU MAG\COM Laba\Laba Interface\bin\Debug\Laba Interface.exe.config
+C:\Users\MuzDima\Dropbox\NEW KNU MAG\COM Laba\Laba Interface\obj\Debug\Laba Interface.exe
+C:\Users\MuzDima\Dropbox\NEW KNU MAG\COM Laba\Laba Interface\obj\Debug\Laba Interface.pdb
+C:\Users\MuzDima\Dropbox\NEW KNU MAG\COM Laba\Laba Interface\bin\Debug\Laba Interface.exe
+C:\Users\MuzDima\Dropbox\NEW KNU MAG\COM Laba\Laba Interface\bin\Debug\Laba Interface.pdb
+C:\Users\MuzDima\Dropbox\NEW KNU MAG\COM Laba\Laba Interface\bin\Debug\COM Laba.dll
+C:\Users\MuzDima\Dropbox\NEW KNU MAG\COM Laba\Laba Interface\bin\Debug\Newtonsoft.Json.dll
+C:\Users\MuzDima\Dropbox\NEW KNU MAG\COM Laba\Laba Interface\bin\Debug\ExtendedXmlSerializer.dll
+C:\Users\MuzDima\Dropbox\NEW KNU MAG\COM Laba\Laba Interface\bin\Debug\COM Laba.pdb
+C:\Users\MuzDima\Dropbox\NEW KNU MAG\COM Laba\Laba Interface\bin\Debug\Newtonsoft.Json.xml
+C:\Users\MuzDima\Dropbox\NEW KNU MAG\COM Laba\Laba Interface\obj\Debug\Laba Interface.csprojResolveAssemblyReference.cache
+C:\Users\MuzDima\Dropbox\NEW KNU MAG\COM Laba\Laba Interface\obj\Debug\Laba_Interface.FormDatabase.resources
+C:\Users\MuzDima\Dropbox\NEW KNU MAG\COM Laba\Laba Interface\obj\Debug\Laba_Interface.FormInit.resources
+C:\Users\MuzDima\Dropbox\NEW KNU MAG\COM Laba\Laba Interface\obj\Debug\Laba_Interface.FormInput1.resources
+C:\Users\MuzDima\Dropbox\NEW KNU MAG\COM Laba\Laba Interface\obj\Debug\Laba_Interface.FormInput2.resources
+C:\Users\MuzDima\Dropbox\NEW KNU MAG\COM Laba\Laba Interface\obj\Debug\Laba_Interface.FormMain.resources
+C:\Users\MuzDima\Dropbox\NEW KNU MAG\COM Laba\Laba Interface\obj\Debug\Laba_Interface.FormProvider.resources
+C:\Users\MuzDima\Dropbox\NEW KNU MAG\COM Laba\Laba Interface\obj\Debug\Laba_Interface.FormTable.resources
+C:\Users\MuzDima\Dropbox\NEW KNU MAG\COM Laba\Laba Interface\obj\Debug\Laba_Interface.Properties.Resources.resources
+C:\Users\MuzDima\Dropbox\NEW KNU MAG\COM Laba\Laba Interface\obj\Debug\Laba Interface.csproj.GenerateResource.Cache
+C:\Users\MuzDima\Dropbox\NEW KNU MAG\COM Laba\Laba Interface\obj\Debug\Laba_Interface.FormCreateColumn.resources
+C:\Users\SRigh\Documents\COM Laba\Laba Interface\bin\Debug\Laba Interface.exe.config
+C:\Users\SRigh\Documents\COM Laba\Laba Interface\obj\Debug\Laba Interface.exe
+C:\Users\SRigh\Documents\COM Laba\Laba Interface\obj\Debug\Laba Interface.pdb
+C:\Users\SRigh\Documents\COM Laba\Laba Interface\bin\Debug\Laba Interface.exe
+C:\Users\SRigh\Documents\COM Laba\Laba Interface\bin\Debug\Laba Interface.pdb
+C:\Users\SRigh\Documents\COM Laba\Laba Interface\bin\Debug\COM Laba.dll
+C:\Users\SRigh\Documents\COM Laba\Laba Interface\bin\Debug\Newtonsoft.Json.dll
+C:\Users\SRigh\Documents\COM Laba\Laba Interface\bin\Debug\ExtendedXmlSerializer.dll
+C:\Users\SRigh\Documents\COM Laba\Laba Interface\bin\Debug\COM Laba.pdb
+C:\Users\SRigh\Documents\COM Laba\Laba Interface\bin\Debug\Newtonsoft.Json.xml
+C:\Users\SRigh\Documents\COM Laba\Laba Interface\obj\Debug\Laba Interface.csprojResolveAssemblyReference.cache
+C:\Users\SRigh\Documents\COM Laba\Laba Interface\obj\Debug\Laba_Interface.FormCreateColumn.resources
+C:\Users\SRigh\Documents\COM Laba\Laba Interface\obj\Debug\Laba_Interface.FormDatabase.resources
+C:\Users\SRigh\Documents\COM Laba\Laba Interface\obj\Debug\Laba_Interface.FormInit.resources
+C:\Users\SRigh\Documents\COM Laba\Laba Interface\obj\Debug\Laba_Interface.FormInput1.resources
+C:\Users\SRigh\Documents\COM Laba\Laba Interface\obj\Debug\Laba_Interface.FormInput2.resources
+C:\Users\SRigh\Documents\COM Laba\Laba Interface\obj\Debug\Laba_Interface.FormMain.resources
+C:\Users\SRigh\Documents\COM Laba\Laba Interface\obj\Debug\Laba_Interface.FormProvider.resources
+C:\Users\SRigh\Documents\COM Laba\Laba Interface\obj\Debug\Laba_Interface.FormTable.resources
+C:\Users\SRigh\Documents\COM Laba\Laba Interface\obj\Debug\Laba_Interface.Properties.Resources.resources
+C:\Users\SRigh\Documents\COM Laba\Laba Interface\obj\Debug\Laba Interface.csproj.GenerateResource.Cache

@@ -1,0 +1,189 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{FFAED7F3-AAA4-4435-BF86-37EDBF6B37C9}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Laba_Interface</RootNamespace>
+    <AssemblyName>Laba Interface</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Newtonsoft.Json, Version=9.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>..\packages\Newtonsoft.Json.9.0.1\lib\net45\Newtonsoft.Json.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Runtime.Remoting" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Runtime.Serialization.Formatters.Soap" />
+    <Reference Include="System.ServiceModel" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="FormCreateColumn.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormCreateColumn.Designer.cs">
+      <DependentUpon>FormCreateColumn.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormDatabase.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormDatabase.Designer.cs">
+      <DependentUpon>FormDatabase.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormInit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormInit.Designer.cs">
+      <DependentUpon>FormInit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormInput1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormInput1.Designer.cs">
+      <DependentUpon>FormInput1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormInput2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormInput2.Designer.cs">
+      <DependentUpon>FormInput2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormMain.Designer.cs">
+      <DependentUpon>FormMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormProvider.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormProvider.Designer.cs">
+      <DependentUpon>FormProvider.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormTable.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormTable.Designer.cs">
+      <DependentUpon>FormTable.cs</DependentUpon>
+    </Compile>
+    <Compile Include="IDB.cs" />
+    <Compile Include="Providers\ASMX For WCF\IDB_ASMX_FOR_WCF.cs" />
+    <Compile Include="Providers\ASMX For WCF\ServiceSharedDatabase.cs" />
+    <Compile Include="Providers\ASMX\IDB_ASMX.cs" />
+    <Compile Include="Providers\ASMX\SharedDatabase.cs" />
+    <Compile Include="Providers\COM\IDB_COM.cs" />
+    <Compile Include="Providers\Remoting\IDB_Remoting.cs" />
+    <Compile Include="Providers\WCF\IDB_WCF.cs" />
+    <Compile Include="Providers\WCF\ServiceSharedDatabase.cs" />
+    <Compile Include="Providers\webApi\IDB_webAPI.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="FormCreateColumn.resx">
+      <DependentUpon>FormCreateColumn.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormDatabase.resx">
+      <DependentUpon>FormDatabase.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormInit.resx">
+      <DependentUpon>FormInit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormInput1.resx">
+      <DependentUpon>FormInput1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormInput2.resx">
+      <DependentUpon>FormInput2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormMain.resx">
+      <DependentUpon>FormMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormProvider.resx">
+      <DependentUpon>FormProvider.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormTable.resx">
+      <DependentUpon>FormTable.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="Providers\ASMX For WCF\GenerateProxyClass.bat" />
+    <None Include="Providers\ASMX\GenerateProxyClass.bat" />
+    <None Include="Providers\WCF\GenerateProxyClass.bat" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\COM Laba\COM Laba.csproj">
+      <Project>{8bafe7de-4a78-414f-96b2-c99b4cfb0c1c}</Project>
+      <Name>COM Laba</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <Content Include="Providers\ASMX For WCF\wsdl.exe" />
+    <Content Include="Providers\ASMX\wsdl.exe" />
+    <Content Include="Providers\WCF\SvcUtil.exe" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

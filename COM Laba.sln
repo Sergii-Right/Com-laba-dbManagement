@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "COM Laba", "COM Laba\COM Laba.csproj", "{8BAFE7DE-4A78-414F-96B2-C99B4CFB0C1C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Web Api Rest", "Web Api Rest\Web Api Rest.csproj", "{31FD493D-C45B-4706-8D61-845EDC477B30}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Laba Interface", "Laba Interface\Laba Interface.csproj", "{FFAED7F3-AAA4-4435-BF86-37EDBF6B37C9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASMX", "ASMX\ASMX.csproj", "{01BB585F-031D-4B1A-A8ED-4131CE664CA0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WCF", "WCF\WCF.csproj", "{5E0A5DEB-150D-4FBA-81B5-9C5984A4A7F0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Remoting", "Remoting\Remoting.csproj", "{0D724197-8E09-4965-BFCC-8A388325FA08}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8BAFE7DE-4A78-414F-96B2-C99B4CFB0C1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BAFE7DE-4A78-414F-96B2-C99B4CFB0C1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BAFE7DE-4A78-414F-96B2-C99B4CFB0C1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BAFE7DE-4A78-414F-96B2-C99B4CFB0C1C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31FD493D-C45B-4706-8D61-845EDC477B30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31FD493D-C45B-4706-8D61-845EDC477B30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31FD493D-C45B-4706-8D61-845EDC477B30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31FD493D-C45B-4706-8D61-845EDC477B30}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FFAED7F3-AAA4-4435-BF86-37EDBF6B37C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFAED7F3-AAA4-4435-BF86-37EDBF6B37C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFAED7F3-AAA4-4435-BF86-37EDBF6B37C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFAED7F3-AAA4-4435-BF86-37EDBF6B37C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{01BB585F-031D-4B1A-A8ED-4131CE664CA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01BB585F-031D-4B1A-A8ED-4131CE664CA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01BB585F-031D-4B1A-A8ED-4131CE664CA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01BB585F-031D-4B1A-A8ED-4131CE664CA0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E0A5DEB-150D-4FBA-81B5-9C5984A4A7F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E0A5DEB-150D-4FBA-81B5-9C5984A4A7F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E0A5DEB-150D-4FBA-81B5-9C5984A4A7F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E0A5DEB-150D-4FBA-81B5-9C5984A4A7F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D724197-8E09-4965-BFCC-8A388325FA08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D724197-8E09-4965-BFCC-8A388325FA08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D724197-8E09-4965-BFCC-8A388325FA08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D724197-8E09-4965-BFCC-8A388325FA08}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

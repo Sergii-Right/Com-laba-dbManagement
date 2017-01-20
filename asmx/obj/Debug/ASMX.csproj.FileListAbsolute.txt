@@ -1,0 +1,46 @@
+C:\Users\MuzDima\Dropbox\NEW KNU MAG\COM Laba\ASMX\bin\roslyn\csc.exe
+C:\Users\MuzDima\Dropbox\NEW KNU MAG\COM Laba\ASMX\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\MuzDima\Dropbox\NEW KNU MAG\COM Laba\ASMX\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\MuzDima\Dropbox\NEW KNU MAG\COM Laba\ASMX\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\MuzDima\Dropbox\NEW KNU MAG\COM Laba\ASMX\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\MuzDima\Dropbox\NEW KNU MAG\COM Laba\ASMX\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\MuzDima\Dropbox\NEW KNU MAG\COM Laba\ASMX\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\MuzDima\Dropbox\NEW KNU MAG\COM Laba\ASMX\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\MuzDima\Dropbox\NEW KNU MAG\COM Laba\ASMX\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\MuzDima\Dropbox\NEW KNU MAG\COM Laba\ASMX\bin\roslyn\vbc.exe
+C:\Users\MuzDima\Dropbox\NEW KNU MAG\COM Laba\ASMX\bin\roslyn\VBCSCompiler.exe
+C:\Users\MuzDima\Dropbox\NEW KNU MAG\COM Laba\ASMX\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\MuzDima\Dropbox\NEW KNU MAG\COM Laba\ASMX\bin\ASMX.dll.config
+C:\Users\MuzDima\Dropbox\NEW KNU MAG\COM Laba\ASMX\bin\ASMX.dll
+C:\Users\MuzDima\Dropbox\NEW KNU MAG\COM Laba\ASMX\bin\ASMX.pdb
+C:\Users\MuzDima\Dropbox\NEW KNU MAG\COM Laba\ASMX\bin\COM Laba.dll
+C:\Users\MuzDima\Dropbox\NEW KNU MAG\COM Laba\ASMX\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\MuzDima\Dropbox\NEW KNU MAG\COM Laba\ASMX\bin\ExtendedXmlSerializer.dll
+C:\Users\MuzDima\Dropbox\NEW KNU MAG\COM Laba\ASMX\bin\COM Laba.pdb
+C:\Users\MuzDima\Dropbox\NEW KNU MAG\COM Laba\ASMX\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\MuzDima\Dropbox\NEW KNU MAG\COM Laba\ASMX\obj\Debug\ASMX.csprojResolveAssemblyReference.cache
+C:\Users\MuzDima\Dropbox\NEW KNU MAG\COM Laba\ASMX\obj\Debug\ASMX.dll
+C:\Users\MuzDima\Dropbox\NEW KNU MAG\COM Laba\ASMX\obj\Debug\ASMX.pdb
+C:\Users\SRigh\Documents\COM Laba\ASMX\bin\roslyn\csc.exe
+C:\Users\SRigh\Documents\COM Laba\ASMX\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\SRigh\Documents\COM Laba\ASMX\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\SRigh\Documents\COM Laba\ASMX\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\SRigh\Documents\COM Laba\ASMX\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\SRigh\Documents\COM Laba\ASMX\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\SRigh\Documents\COM Laba\ASMX\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\SRigh\Documents\COM Laba\ASMX\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\SRigh\Documents\COM Laba\ASMX\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\SRigh\Documents\COM Laba\ASMX\bin\roslyn\vbc.exe
+C:\Users\SRigh\Documents\COM Laba\ASMX\bin\roslyn\VBCSCompiler.exe
+C:\Users\SRigh\Documents\COM Laba\ASMX\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\SRigh\Documents\COM Laba\ASMX\bin\ASMX.dll.config
+C:\Users\SRigh\Documents\COM Laba\ASMX\bin\ASMX.dll
+C:\Users\SRigh\Documents\COM Laba\ASMX\bin\ASMX.pdb
+C:\Users\SRigh\Documents\COM Laba\ASMX\bin\COM Laba.dll
+C:\Users\SRigh\Documents\COM Laba\ASMX\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\SRigh\Documents\COM Laba\ASMX\bin\ExtendedXmlSerializer.dll
+C:\Users\SRigh\Documents\COM Laba\ASMX\bin\COM Laba.pdb
+C:\Users\SRigh\Documents\COM Laba\ASMX\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\SRigh\Documents\COM Laba\ASMX\obj\Debug\ASMX.csprojResolveAssemblyReference.cache
+C:\Users\SRigh\Documents\COM Laba\ASMX\obj\Debug\ASMX.dll
+C:\Users\SRigh\Documents\COM Laba\ASMX\obj\Debug\ASMX.pdb

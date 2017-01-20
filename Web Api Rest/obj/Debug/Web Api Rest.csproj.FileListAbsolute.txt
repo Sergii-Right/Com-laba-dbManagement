@@ -1,0 +1,118 @@
+C:\Users\MuzDima\Dropbox\NEW KNU MAG\COM Laba\Web Api Rest\bin\roslyn\csc.exe
+C:\Users\MuzDima\Dropbox\NEW KNU MAG\COM Laba\Web Api Rest\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\MuzDima\Dropbox\NEW KNU MAG\COM Laba\Web Api Rest\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\MuzDima\Dropbox\NEW KNU MAG\COM Laba\Web Api Rest\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\MuzDima\Dropbox\NEW KNU MAG\COM Laba\Web Api Rest\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\MuzDima\Dropbox\NEW KNU MAG\COM Laba\Web Api Rest\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\MuzDima\Dropbox\NEW KNU MAG\COM Laba\Web Api Rest\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\MuzDima\Dropbox\NEW KNU MAG\COM Laba\Web Api Rest\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\MuzDima\Dropbox\NEW KNU MAG\COM Laba\Web Api Rest\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\MuzDima\Dropbox\NEW KNU MAG\COM Laba\Web Api Rest\bin\roslyn\vbc.exe
+C:\Users\MuzDima\Dropbox\NEW KNU MAG\COM Laba\Web Api Rest\bin\roslyn\VBCSCompiler.exe
+C:\Users\MuzDima\Dropbox\NEW KNU MAG\COM Laba\Web Api Rest\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\MuzDima\Dropbox\NEW KNU MAG\COM Laba\Web Api Rest\bin\Web Api Rest.dll.config
+C:\Users\MuzDima\Dropbox\NEW KNU MAG\COM Laba\Web Api Rest\bin\Web Api Rest.dll
+C:\Users\MuzDima\Dropbox\NEW KNU MAG\COM Laba\Web Api Rest\bin\Web Api Rest.pdb
+C:\Users\MuzDima\Dropbox\NEW KNU MAG\COM Laba\Web Api Rest\bin\Antlr3.Runtime.dll
+C:\Users\MuzDima\Dropbox\NEW KNU MAG\COM Laba\Web Api Rest\bin\COM Laba.dll
+C:\Users\MuzDima\Dropbox\NEW KNU MAG\COM Laba\Web Api Rest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\MuzDima\Dropbox\NEW KNU MAG\COM Laba\Web Api Rest\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\MuzDima\Dropbox\NEW KNU MAG\COM Laba\Web Api Rest\bin\Newtonsoft.Json.dll
+C:\Users\MuzDima\Dropbox\NEW KNU MAG\COM Laba\Web Api Rest\bin\System.Net.Http.Formatting.dll
+C:\Users\MuzDima\Dropbox\NEW KNU MAG\COM Laba\Web Api Rest\bin\System.Web.Helpers.dll
+C:\Users\MuzDima\Dropbox\NEW KNU MAG\COM Laba\Web Api Rest\bin\System.Web.Http.dll
+C:\Users\MuzDima\Dropbox\NEW KNU MAG\COM Laba\Web Api Rest\bin\System.Web.Http.WebHost.dll
+C:\Users\MuzDima\Dropbox\NEW KNU MAG\COM Laba\Web Api Rest\bin\System.Web.Mvc.dll
+C:\Users\MuzDima\Dropbox\NEW KNU MAG\COM Laba\Web Api Rest\bin\System.Web.Optimization.dll
+C:\Users\MuzDima\Dropbox\NEW KNU MAG\COM Laba\Web Api Rest\bin\System.Web.Razor.dll
+C:\Users\MuzDima\Dropbox\NEW KNU MAG\COM Laba\Web Api Rest\bin\System.Web.WebPages.Deployment.dll
+C:\Users\MuzDima\Dropbox\NEW KNU MAG\COM Laba\Web Api Rest\bin\System.Web.WebPages.dll
+C:\Users\MuzDima\Dropbox\NEW KNU MAG\COM Laba\Web Api Rest\bin\System.Web.WebPages.Razor.dll
+C:\Users\MuzDima\Dropbox\NEW KNU MAG\COM Laba\Web Api Rest\bin\WebGrease.dll
+C:\Users\MuzDima\Dropbox\NEW KNU MAG\COM Laba\Web Api Rest\bin\ExtendedXmlSerializer.dll
+C:\Users\MuzDima\Dropbox\NEW KNU MAG\COM Laba\Web Api Rest\bin\COM Laba.pdb
+C:\Users\MuzDima\Dropbox\NEW KNU MAG\COM Laba\Web Api Rest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\MuzDima\Dropbox\NEW KNU MAG\COM Laba\Web Api Rest\bin\Newtonsoft.Json.xml
+C:\Users\MuzDima\Dropbox\NEW KNU MAG\COM Laba\Web Api Rest\bin\System.Net.Http.Formatting.xml
+C:\Users\MuzDima\Dropbox\NEW KNU MAG\COM Laba\Web Api Rest\bin\System.Web.Helpers.xml
+C:\Users\MuzDima\Dropbox\NEW KNU MAG\COM Laba\Web Api Rest\bin\System.Web.Http.xml
+C:\Users\MuzDima\Dropbox\NEW KNU MAG\COM Laba\Web Api Rest\bin\System.Web.Http.WebHost.xml
+C:\Users\MuzDima\Dropbox\NEW KNU MAG\COM Laba\Web Api Rest\bin\System.Web.Mvc.xml
+C:\Users\MuzDima\Dropbox\NEW KNU MAG\COM Laba\Web Api Rest\bin\System.Web.Optimization.xml
+C:\Users\MuzDima\Dropbox\NEW KNU MAG\COM Laba\Web Api Rest\bin\System.Web.Razor.xml
+C:\Users\MuzDima\Dropbox\NEW KNU MAG\COM Laba\Web Api Rest\bin\System.Web.WebPages.xml
+C:\Users\MuzDima\Dropbox\NEW KNU MAG\COM Laba\Web Api Rest\bin\System.Web.WebPages.Deployment.xml
+C:\Users\MuzDima\Dropbox\NEW KNU MAG\COM Laba\Web Api Rest\bin\System.Web.WebPages.Razor.xml
+C:\Users\MuzDima\Dropbox\NEW KNU MAG\COM Laba\Web Api Rest\bin\Antlr3.Runtime.pdb
+C:\Users\MuzDima\Dropbox\NEW KNU MAG\COM Laba\Web Api Rest\bin\ru\System.Net.Http.Formatting.resources.dll
+C:\Users\MuzDima\Dropbox\NEW KNU MAG\COM Laba\Web Api Rest\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\MuzDima\Dropbox\NEW KNU MAG\COM Laba\Web Api Rest\bin\ru\System.Web.Http.resources.dll
+C:\Users\MuzDima\Dropbox\NEW KNU MAG\COM Laba\Web Api Rest\bin\ru\System.Web.Http.WebHost.resources.dll
+C:\Users\MuzDima\Dropbox\NEW KNU MAG\COM Laba\Web Api Rest\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\MuzDima\Dropbox\NEW KNU MAG\COM Laba\Web Api Rest\bin\ru\System.Web.Optimization.resources.dll
+C:\Users\MuzDima\Dropbox\NEW KNU MAG\COM Laba\Web Api Rest\bin\ru\System.Web.Razor.resources.dll
+C:\Users\MuzDima\Dropbox\NEW KNU MAG\COM Laba\Web Api Rest\bin\ru\System.Web.WebPages.resources.dll
+C:\Users\MuzDima\Dropbox\NEW KNU MAG\COM Laba\Web Api Rest\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\MuzDima\Dropbox\NEW KNU MAG\COM Laba\Web Api Rest\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\MuzDima\Dropbox\NEW KNU MAG\COM Laba\Web Api Rest\obj\Debug\Web Api Rest.dll
+C:\Users\MuzDima\Dropbox\NEW KNU MAG\COM Laba\Web Api Rest\obj\Debug\Web Api Rest.pdb
+C:\Users\MuzDima\Dropbox\NEW KNU MAG\COM Laba\Web Api Rest\obj\Debug\Web Api Rest.csprojResolveAssemblyReference.cache
+C:\Users\SRigh\Documents\COM Laba\Web Api Rest\bin\roslyn\csc.exe
+C:\Users\SRigh\Documents\COM Laba\Web Api Rest\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\SRigh\Documents\COM Laba\Web Api Rest\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\SRigh\Documents\COM Laba\Web Api Rest\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\SRigh\Documents\COM Laba\Web Api Rest\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\SRigh\Documents\COM Laba\Web Api Rest\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\SRigh\Documents\COM Laba\Web Api Rest\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\SRigh\Documents\COM Laba\Web Api Rest\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\SRigh\Documents\COM Laba\Web Api Rest\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\SRigh\Documents\COM Laba\Web Api Rest\bin\roslyn\vbc.exe
+C:\Users\SRigh\Documents\COM Laba\Web Api Rest\bin\roslyn\VBCSCompiler.exe
+C:\Users\SRigh\Documents\COM Laba\Web Api Rest\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\SRigh\Documents\COM Laba\Web Api Rest\bin\Web Api Rest.dll.config
+C:\Users\SRigh\Documents\COM Laba\Web Api Rest\bin\Web Api Rest.dll
+C:\Users\SRigh\Documents\COM Laba\Web Api Rest\bin\Web Api Rest.pdb
+C:\Users\SRigh\Documents\COM Laba\Web Api Rest\bin\Antlr3.Runtime.dll
+C:\Users\SRigh\Documents\COM Laba\Web Api Rest\bin\COM Laba.dll
+C:\Users\SRigh\Documents\COM Laba\Web Api Rest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\SRigh\Documents\COM Laba\Web Api Rest\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\SRigh\Documents\COM Laba\Web Api Rest\bin\Newtonsoft.Json.dll
+C:\Users\SRigh\Documents\COM Laba\Web Api Rest\bin\System.Net.Http.Formatting.dll
+C:\Users\SRigh\Documents\COM Laba\Web Api Rest\bin\System.Web.Helpers.dll
+C:\Users\SRigh\Documents\COM Laba\Web Api Rest\bin\System.Web.Http.dll
+C:\Users\SRigh\Documents\COM Laba\Web Api Rest\bin\System.Web.Http.WebHost.dll
+C:\Users\SRigh\Documents\COM Laba\Web Api Rest\bin\System.Web.Mvc.dll
+C:\Users\SRigh\Documents\COM Laba\Web Api Rest\bin\System.Web.Optimization.dll
+C:\Users\SRigh\Documents\COM Laba\Web Api Rest\bin\System.Web.Razor.dll
+C:\Users\SRigh\Documents\COM Laba\Web Api Rest\bin\System.Web.WebPages.Deployment.dll
+C:\Users\SRigh\Documents\COM Laba\Web Api Rest\bin\System.Web.WebPages.dll
+C:\Users\SRigh\Documents\COM Laba\Web Api Rest\bin\System.Web.WebPages.Razor.dll
+C:\Users\SRigh\Documents\COM Laba\Web Api Rest\bin\WebGrease.dll
+C:\Users\SRigh\Documents\COM Laba\Web Api Rest\bin\ExtendedXmlSerializer.dll
+C:\Users\SRigh\Documents\COM Laba\Web Api Rest\bin\COM Laba.pdb
+C:\Users\SRigh\Documents\COM Laba\Web Api Rest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\SRigh\Documents\COM Laba\Web Api Rest\bin\Newtonsoft.Json.xml
+C:\Users\SRigh\Documents\COM Laba\Web Api Rest\bin\System.Net.Http.Formatting.xml
+C:\Users\SRigh\Documents\COM Laba\Web Api Rest\bin\System.Web.Helpers.xml
+C:\Users\SRigh\Documents\COM Laba\Web Api Rest\bin\System.Web.Http.xml
+C:\Users\SRigh\Documents\COM Laba\Web Api Rest\bin\System.Web.Http.WebHost.xml
+C:\Users\SRigh\Documents\COM Laba\Web Api Rest\bin\System.Web.Mvc.xml
+C:\Users\SRigh\Documents\COM Laba\Web Api Rest\bin\System.Web.Optimization.xml
+C:\Users\SRigh\Documents\COM Laba\Web Api Rest\bin\System.Web.Razor.xml
+C:\Users\SRigh\Documents\COM Laba\Web Api Rest\bin\System.Web.WebPages.xml
+C:\Users\SRigh\Documents\COM Laba\Web Api Rest\bin\System.Web.WebPages.Deployment.xml
+C:\Users\SRigh\Documents\COM Laba\Web Api Rest\bin\System.Web.WebPages.Razor.xml
+C:\Users\SRigh\Documents\COM Laba\Web Api Rest\bin\Antlr3.Runtime.pdb
+C:\Users\SRigh\Documents\COM Laba\Web Api Rest\bin\ru\System.Net.Http.Formatting.resources.dll
+C:\Users\SRigh\Documents\COM Laba\Web Api Rest\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\SRigh\Documents\COM Laba\Web Api Rest\bin\ru\System.Web.Http.resources.dll
+C:\Users\SRigh\Documents\COM Laba\Web Api Rest\bin\ru\System.Web.Http.WebHost.resources.dll
+C:\Users\SRigh\Documents\COM Laba\Web Api Rest\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\SRigh\Documents\COM Laba\Web Api Rest\bin\ru\System.Web.Optimization.resources.dll
+C:\Users\SRigh\Documents\COM Laba\Web Api Rest\bin\ru\System.Web.Razor.resources.dll
+C:\Users\SRigh\Documents\COM Laba\Web Api Rest\bin\ru\System.Web.WebPages.resources.dll
+C:\Users\SRigh\Documents\COM Laba\Web Api Rest\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\SRigh\Documents\COM Laba\Web Api Rest\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\SRigh\Documents\COM Laba\Web Api Rest\obj\Debug\Web Api Rest.csprojResolveAssemblyReference.cache
+C:\Users\SRigh\Documents\COM Laba\Web Api Rest\obj\Debug\Web Api Rest.dll
+C:\Users\SRigh\Documents\COM Laba\Web Api Rest\obj\Debug\Web Api Rest.pdb

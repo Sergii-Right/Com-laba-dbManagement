@@ -1,0 +1,1 @@
+wsdl.exe /n:Laba_Interface.ASMX_For_WCF_ProxyClass http://localhost:8888/ServiceSharedDatabase.svc?wsdl
